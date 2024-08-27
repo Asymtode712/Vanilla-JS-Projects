@@ -35,7 +35,7 @@
 <!-- Add steps how to run this project -->
 - Clone the repository into your local machine
   ```
-    git clone https://github.com/Avdhesh-Varshney/WebMasterLog.git
+    git clone https://github.com/Asymtode712/Vanilla-JS-Projects.git
   ```
 - Go to the `Youtube-Video-Downloader` directory
 - Go to the `server` folder and install Dependencies
